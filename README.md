@@ -11,6 +11,8 @@ I'm open to new opportunities and challenges to continue learning and growing as
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AironRuda&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AironRuda)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AironRuda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 # Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,bootstrap,firebase,github,sass)](https://skillicons.dev)
