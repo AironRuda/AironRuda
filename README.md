@@ -7,7 +7,7 @@
 
 # Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,bootstrap,firebase, github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,bootstrap,firebase,github)](https://skillicons.dev)
 
 <!--
 **AironRuda/AironRuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
