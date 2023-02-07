@@ -5,7 +5,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AironRuda)](https://github.com/anuraghazra/github-readme-stats)
 
-<i class="devicon-css3-plain"></i>
+
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css)](https://skillicons.dev)
 
 <!--
 **AironRuda/AironRuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
