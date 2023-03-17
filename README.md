@@ -16,7 +16,7 @@ I'm open to new opportunities and challenges to continue learning and growing as
 
 # Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,js,redux,vite,firebase,git,github,tailwind,sass,bootstrap,css,HTML)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,redux,vite,firebase,git,github,tailwind,sass,bootstrap,css,html)](https://skillicons.dev)
 
 <!--
 **AironRuda/AironRuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
