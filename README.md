@@ -1,22 +1,22 @@
-### Hi there 👋
+# Hi there 👋 I'm Airon
+
+# About me
 
 Actualy I'm learning how to improve my code, turning it in an efficient, easy to deploy and high-cuality code.
 
-
 I'm open to new opportunities and challenges to continue learning and growing as a frontend developer.
 
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AironRuda)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AironRuda)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AironRuda&show_icons=true&theme=transparent) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AironRuda)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AironRuda&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AironRuda)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&pause=1000&width=435&lines=My+Github+stats+%F0%9F%98%81" alt="Typing SVG" /></a>
 
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AironRuda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AironRuda&layout=compact&theme=darck)](https://github.com/anuraghazra/github-readme-stats)
 
 # Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,js,redux,vite,firebase,git,github,tailwind,sass,bootstrap,css,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,ts,js,redux,vite,firebase,git,github,tailwind,sass,bootstrap,css,html)](https://skillicons.dev)
 
 <!--
 **AironRuda/AironRuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
